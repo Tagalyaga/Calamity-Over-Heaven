@@ -1,2 +1,24 @@
-# This file will automatically update with entries for new content after a build and reload.
+Configs: {
+	CustomizableOptions: {
+		Gay: {
+			Tooltip: Whether or not you are gay
+			Label: Gay Mode
+		}
 
+		DisplayName: Customizable Options
+	}
+}
+
+Projectiles.PanzerfaustStandT1.DisplayName: Panzerfaust Stand T1
+
+Items: {
+	PanzerfaustT1: {
+		Tooltip: ""
+		DisplayName: Panzerfaust T1
+	}
+
+	CalOHStandItemClass: {
+		Tooltip: ""
+		DisplayName: Cal O H Stand Item Class
+	}
+}
