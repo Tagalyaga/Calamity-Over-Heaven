@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<!-- Import tModLoader mod properties -->
+	<Import Project="..\tModLoader.targets" />
+
+	<!-- General -->
+	<PropertyGroup>
+		
+	</PropertyGroup>
+	<ItemGroup>
+	  <Reference Include="JoJoStands">
+	    <HintPath>..\ModAssemblies\JoJoStands_v2.4.4.6.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
+	<!-- References -->
+
+</Project>
