@@ -13,8 +13,12 @@ Projectiles.PanzerfaustStandT1.DisplayName: Panzerfaust Stand T1
 
 Items: {
 	PanzerfaustT1: {
-		Tooltip: ""
-		DisplayName: Panzerfaust T1
+		DisplayName: Panzerfaust (Tier 1)
+		Tooltip:
+			'''
+			Punch enemies at a really fast rate!
+			Used in Stand Slot
+			'''
 	}
 
 	CalOHStandItemClass: {
